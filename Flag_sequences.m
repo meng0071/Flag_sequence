@@ -1,5 +1,5 @@
 clear all; close all; clc;
-%A numerical example of a single Flag sequence and a Flag sequence set. 
+%Numerical examples of a single Flag sequence and a Flag sequence set. 
 %Please look forward to the paper for specific methods and code.
 
 %N = 1021; M = 1, matched transmit sequence and receive reference sequence
